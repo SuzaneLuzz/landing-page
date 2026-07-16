@@ -1,4 +1,4 @@
-#Landing Page
+## Landing Page
 
 landing page responsiva, construída com HTML, CSS e JavaScript. 
 
