@@ -13,5 +13,4 @@ landing page responsiva, construída com HTML, CSS e JavaScript.
 - **Google Fonts**: Fontes
 
 ## Visualize o projeto:
-
-**[Ver Projeto Online]((https://landingpage-dun-eight-37.vercel.app/))**
+https://landingpage-dun-eight-37.vercel.app/
